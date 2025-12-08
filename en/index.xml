@@ -1,43 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Bovmelo's Inn</title><link>https://bovmelo.github.io/en/</link><description>Recent content in Introduction on Bovmelo's Inn</description><generator>Hugo</generator><language>en</language><atom:link href="https://bovmelo.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://bovmelo.github.io/en/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/en/about/</guid><description>&lt;h1 id="about-me">
- About Me
- &lt;a class="anchor" href="#about-me">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="-hello">
- 👋 Hello
- &lt;a class="anchor" href="#-hello">#&lt;/a>
-&lt;/h2>
-&lt;p>Welcome to my blog!&lt;/p>
-&lt;h2 id="-introduction">
- 🧑‍💻 Introduction
- &lt;a class="anchor" href="#-introduction">#&lt;/a>
-&lt;/h2>
-&lt;p>Write your introduction here&amp;hellip;&lt;/p>
-&lt;h2 id="-contact">
- 📫 Contact
- &lt;a class="anchor" href="#-contact">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>GitHub: 
- &lt;a href="https://github.com/Bovmelo">Bovmelo&lt;/a>&lt;/li>
-&lt;li>Email: 
- &lt;a href="mailto:your.email@example.com">your.email@example.com&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="-interests">
- 🎯 Interests
- &lt;a class="anchor" href="#-interests">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Programming&lt;/li>
-&lt;li>Technical Writing&lt;/li>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>Wh</title><link>https://bovmelo.github.io/en/posts/why-code/</link><pubDate>Wed, 22 Jan 2025 18:01:27 +0800</pubDate><guid>https://bovmelo.github.io/en/posts/why-code/</guid><description>&lt;h2 id="heading">
- 
- &lt;a class="anchor" href="#heading">#&lt;/a>
-&lt;/h2></description></item><item><title>Hello, world!</title><link>https://bovmelo.github.io/en/posts/Hello-world/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/en/posts/Hello-world/</guid><description>&lt;h2 id="hello-world">
- Hello, world!
- &lt;a class="anchor" href="#hello-world">#&lt;/a>
-&lt;/h2>
-&lt;h2 id="hi">
- Hi!
- &lt;a class="anchor" href="#hi">#&lt;/a>
-&lt;/h2></description></item><item><title/><link>https://bovmelo.github.io/en/posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/en/posts/about/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Bovmelo&#39;s Inn</title>
+    <link>http://localhost:59054/en/</link>
+    <description>Recent content in Introduction on Bovmelo&#39;s Inn</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:59054/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wh</title>
+      <link>http://localhost:59054/en/posts/why-code/</link>
+      <pubDate>Wed, 22 Jan 2025 18:01:27 +0800</pubDate>
+      <guid>http://localhost:59054/en/posts/why-code/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#heading&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Hello, world!</title>
+      <link>http://localhost:59054/en/posts/Hello-world/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59054/en/posts/Hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;&#xA;  Hello, world!&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hello-world&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;hi&#34;&gt;&#xA;  Hi!&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hi&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:59054/en/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59054/en/posts/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:59054/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59054/en/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;&#xA;  About Me&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about-me&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-hello&#34;&gt;&#xA;  👋 Hello&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-hello&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my blog!&lt;/p&gt;&#xA;&lt;h2 id=&#34;-introduction&#34;&gt;&#xA;  🧑‍💻 Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Write your introduction here&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-contact&#34;&gt;&#xA;  📫 Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &#xA;  &lt;a href=&#34;https://github.com/Bovmelo&#34;&gt;Bovmelo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email: &#xA;  &lt;a href=&#34;mailto:your.email@example.com&#34;&gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-interests&#34;&gt;&#xA;  🎯 Interests&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-interests&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Technical Writing&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
