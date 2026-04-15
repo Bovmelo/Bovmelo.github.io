@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>博文列表 on Bovmelo's Inn</title><link>https://bovmelo.github.io/zh/posts/</link><description>Recent content in 博文列表 on Bovmelo's Inn</description><generator>Hugo</generator><language>zh</language><atom:link href="https://bovmelo.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>书法生成相关论文阅读</title><link>https://bovmelo.github.io/zh/posts/calligraphy_generation/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/zh/posts/calligraphy_generation/</guid><description/></item><item><title>Hello, world!</title><link>https://bovmelo.github.io/zh/posts/Hello-world/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/zh/posts/Hello-world/</guid><description>&lt;h2 id="hello-world">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>博文列表 on Bovmelo's Inn</title><link>https://bovmelo.github.io/zh/posts/</link><description>Recent content in 博文列表 on Bovmelo's Inn</description><generator>Hugo</generator><language>zh</language><atom:link href="https://bovmelo.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>160 买 1TB SD 卡被骗记</title><link>https://bovmelo.github.io/zh/posts/260415-SD_card/</link><pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/zh/posts/260415-SD_card/</guid><description>&lt;p>早上八点多就起床了走去华强北，结果开了 $0$ 家店．&lt;/p>
+&lt;p>等到十点半才陆陆续续开始有店开门，但是那时时间已经不多了．&lt;/p>
+&lt;p>看到买闪迪 SD 卡的，问 1TB 价格，只要 160，那还说啥呢．&lt;/p>
+&lt;p>但当时显然不是准备好了的，买完之后才开始尝试分辨真假．&lt;/p>
+&lt;p>好事是带了 macbook pro 可以直接插进去测试，尝试用 f3 进行读写测试，奈何 1TB 的卡太大，读写又很慢．&lt;/p>
+&lt;p>回头查询正品价格后就开始寄希望于不是扩容卡了．&lt;/p>
+&lt;p>过了两天测完之后，悬着的心终究还是死了&lt;/p>
+&lt;pre tabindex="0">&lt;code>╰─ f3read &amp;#34;/Volumes/No Name&amp;#34; 
+F3 read 9.0
+Copyright (C) 2010 Digirati Internet LTDA.
+This is free software; see the source for copying conditions.
+
+ SECTORS ok/corrupted/changed/overwritten
+Validating file 1.h2w ... 002097152/ 0/ 0/ 0
+Validating file 2.h2w ... 2097152/ 0/ 0/ 0
+Validating file 3.h2w ... 2097152/ 0/ 0/ 0
+Validating file 4.h2w ... 2097152/ 0/ 0/ 0
+Validating file 5.h2w ... 2097152/ 0/ 0/ 0
+Validating file 6.h2w ... 2097152/ 0/ 0/ 0
+Validating file 7.h2w ... 2097152/ 0/ 0/ 0
+Validating file 8.h2w ... 2097152/ 0/ 0/ 0
+Validating file 9.h2w ... 2097152/ 0/ 0/ 0
+Validating file 10.h2w ... 2097152/ 0/ 0/ 0
+Validating file 11.h2w ... 2097152/ 0/ 0/ 0
+Validating file 12.h2w ... 2097152/ 0/ 0/ 0
+Validating file 13.h2w ... 2097152/ 0/ 0/ 0
+Validating file 14.h2w ... 2097152/ 0/ 0/ 0
+Validating file 15.h2w ... 2097152/ 0/ 0/ 0
+Validating file 16.h2w ... 2097152/ 0/ 0/ 0
+Validating file 17.h2w ... 2097152/ 0/ 0/ 0
+Validating file 18.h2w ... 2097152/ 0/ 0/ 0
+Validating file 19.h2w ... 2097152/ 0/ 0/ 0
+Validating file 20.h2w ... 2097152/ 0/ 0/ 0
+Validating file 21.h2w ... 2097152/ 0/ 0/ 0
+Validating file 22.h2w ... 2097152/ 0/ 0/ 0
+Validating file 23.h2w ... 2097152/ 0/ 0/ 0
+Validating file 24.h2w ... 2097152/ 0/ 0/ 0
+Validating file 25.h2w ... 2097152/ 0/ 0/ 0
+Validating file 26.h2w ... 2097152/ 0/ 0/ 0
+Validating file 27.h2w ... 2097152/ 0/ 0/ 0
+Validating file 28.h2w ... 2097152/ 0/ 0/ 0
+Validating file 29.h2w ... 2097152/ 0/ 0/ 0
+Validating file 30.h2w ... 2097152/ 0/ 0/ 0
+Validating file 31.h2w ... 2097152/ 0/ 0/ 0
+Validating file 32.h2w ... 2097152/ 0/ 0/ 0
+Validating file 33.h2w ... 2097152/ 0/ 0/ 0
+Validating file 34.h2w ... 2097152/ 0/ 0/ 0
+Validating file 35.h2w ... 2097152/ 0/ 0/ 0
+Validating file 36.h2w ... 2097152/ 0/ 0/ 0
+Validating file 37.h2w ... 2097152/ 0/ 0/ 0
+Validating file 38.h2w ... 2097152/ 0/ 0/ 0
+Validating file 39.h2w ... 2097152/ 0/ 0/ 0
+Validating file 40.h2w ... 2097152/ 0/ 0/ 0
+Validating file 41.h2w ... 2097152/ 0/ 0/ 0
+Validating file 42.h2w ... 2097152/ 0/ 0/ 0
+Validating file 43.h2w ... 2097152/ 0/ 0/ 0
+Validating file 44.h2w ... 2097152/ 0/ 0/ 0
+Validating file 45.h2w ... 2097152/ 0/ 0/ 0
+Validating file 46.h2w ... 2097152/ 0/ 0/ 0
+Validating file 47.h2w ... 2097152/ 0/ 0/ 0
+Validating file 48.h2w ... 2097152/ 0/ 0/ 0
+Validating file 49.h2w ... 2097152/ 0/ 0/ 0
+Validating file 50.h2w ... 2097152/ 0/ 0/ 0
+Validating file 51.h2w ... 2097152/ 0/ 0/ 0
+Validating file 52.h2w ... 2097152/ 0/ 0/ 0
+Validating file 53.h2w ... 2097152/ 0/ 0/ 0
+Validating file 54.h2w ... 2097152/ 0/ 0/ 0
+Validating file 55.h2w ... 2097152/ 0/ 0/ 0
+Validating file 56.h2w ... 2097152/ 0/ 0/ 0
+Validating file 57.h2w ... 2097152/ 0/ 0/ 0
+Validating file 58.h2w ... 1888632/ 0/ 0/ 208520
+Validating file 59.h2w ... 0/ 0/ 0/2097152
+Validating file 60.h2w ... 0/ 0/ 0/2097152
+Validating file 61.h2w ... 0/ 0/ 0/2097152
+Validating file 62.h2w ... 0/ 0/ 0/2097152
+Validating file 63.h2w ... 0/ 0/ 0/2097152
+Validating file 64.h2w ... 0/ 0/ 0/2097152
+Validating file 65.h2w ... 0/ 0/ 0/2097152
+Validating file 66.h2w ... 0/ 0/ 0/2097152
+Validating file 67.h2w ... 0/ 0/ 0/2097152
+Validating file 68.h2w ... 0/ 0/ 0/2097152
+Validating file 69.h2w ... 0/ 0/ 0/2097152
+Validating file 70.h2w ... 0/ 0/ 0/2097152
+Validating file 71.h2w ... 0/ 0/ 0/2097152
+Validating file 72.h2w ... 0/ 0/ 0/2097152
+Validating file 73.h2w ... 0/ 0/ 0/2097152
+Validating file 74.h2w ... 0/ 0/ 0/2097152
+Validating file 75.h2w ... 0/ 0/ 0/2097152
+Validating file 76.h2w ... 0/ 0/ 0/2097152
+Validating file 77.h2w ... 0/ 0/ 0/2097152
+Validating file 78.h2w ... 0/ 0/ 0/2097152
+Validating file 79.h2w ... 0/ 0/ 0/2097152
+Validating file 80.h2w ... 0/ 0/ 0/2097152
+Validating file 81.h2w ... 0/ 0/ 0/2097152
+Validating file 82.h2w ... 0/ 0/ 0/2097152
+Validating file 83.h2w ... 0/ 0/ 0/2097152
+Validating file 84.h2w ... 0/ 0/ 0/2097152
+Validating file 85.h2w ... 0/ 0/ 0/2097152
+Validating file 86.h2w ... 0/ 0/ 0/2097152
+Validating file 87.h2w ... 0/ 0/ 0/2097152
+Validating file 88.h2w ... 0/ 0/ 0/2097152
+Validating file 89.h2w ... 0/ 0/ 0/2097152
+Validating file 90.h2w ... 0/ 0/ 0/2097152
+Validating file 91.h2w ... 0/ 0/ 0/2097152
+Validating file 92.h2w ... 0/ 0/ 0/2097152
+Validating file 93.h2w ... 0/ 0/ 0/2097152
+Validating file 94.h2w ... 0/ 0/ 0/2097152
+Validating file 95.h2w ... 0/ 0/ 0/2097152
+Validating file 96.h2w ... 0/ 0/ 0/2097152
+Validating file 97.h2w ... 0/ 0/ 0/2097152
+Validating file 98.h2w ... 0/ 0/ 0/2097152
+Validating file 99.h2w ... 0/ 0/ 0/2097152
+Validating file 100.h2w ... 0/ 0/ 0/2097152
+Validating file 101.h2w ... 0/ 0/ 0/2097152
+Validating file 102.h2w ... 0/ 0/ 0/2097152
+Validating file 103.h2w ... 0/ 0/ 0/2097152
+Validating file 104.h2w ... 0/ 0/ 0/2097152
+Validating file 105.h2w ... 0/ 0/ 0/2097152
+Validating file 106.h2w ... 0/ 0/ 0/2097152
+Validating file 107.h2w ... 0/ 0/ 0/2097152
+Validating file 108.h2w ... 0/ 0/ 0/2097152
+Validating file 109.h2w ... 0/ 0/ 0/2097152
+Validating file 110.h2w ... 0/ 0/ 0/2097152
+&lt;/code>&lt;/pre>&lt;p>附该低仿卡与正品卡的外观对比，颜色、形状都有明显区别&lt;/p></description></item><item><title>The 4th Universal Cup. Stage 22： Grand Prix of Kyoto 分析</title><link>https://bovmelo.github.io/zh/posts/QOJ-C3575/</link><pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/zh/posts/QOJ-C3575/</guid><description>&lt;h1 id="j-sum-of-max-of-iai">
+ J. Sum of max of iai
+ &lt;a class="anchor" href="#j-sum-of-max-of-iai">#&lt;/a>
+&lt;/h1>
+&lt;p>题意：对于排列 ${a_{1 \sim n}}$，定义 $f(a) = \displaystyle\max_{i = 1}^n ia_i$，求 $\sum_{i = 1}^n f(a_i)$，$n \le 10 ^ {4}$。&lt;/p>
+&lt;p>这个题首先有一个经典且重要的&lt;strong>转化&lt;/strong>：
+设 $g(x) = \displaystyle\sum_{\left{a_{1 \sim n}\right}} [f(a) \le x]$，则答案为 $\sum_{i = 1}^n g(i)$．&lt;/p>
+&lt;p>这个转化一下子就把求最大值的和转化为了一定限制下的计数．&lt;/p>
+&lt;p>现在转为求 $g(x) = \displaystyle\sum_{\left{a_{1 \sim n}\right}} [ia_i \le x]$．&lt;/p></description></item><item><title>书法生成相关论文阅读</title><link>https://bovmelo.github.io/zh/posts/260406-Calligraphy_generation/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/zh/posts/260406-Calligraphy_generation/</guid><description>&lt;h1 id="heading">
+ 
+ &lt;a class="anchor" href="#heading">#&lt;/a>
+&lt;/h1></description></item><item><title>Hello, world!</title><link>https://bovmelo.github.io/zh/posts/250122-Hello_world/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://bovmelo.github.io/zh/posts/250122-Hello_world/</guid><description>&lt;h2 id="hello-world">
  Hello, world!
  &lt;a class="anchor" href="#hello-world">#&lt;/a>
 &lt;/h2>
